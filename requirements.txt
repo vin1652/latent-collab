@@ -1,0 +1,5 @@
+# latent-collab requirements
+# Install with:  pip install -r requirements.txt
+
+torch>=2.1.0
+transformers>=4.40.0
